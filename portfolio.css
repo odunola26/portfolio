@@ -1,0 +1,43 @@
+*{
+				margin:0;
+				border:0;
+				border:Box-sizing;
+}
+body{
+				margin:5px;
+				background:white;
+				font-family:Arial,Roman time;
+				flex-direction:colunm;
+}
+.portfolio{
+				margin:2px 50px 2px 2px;
+				background:skyblue;
+				color:white;
+}
+.image{
+				width:50px;
+				margin:0;
+				
+}
+.name{
+				margin:2px;
+				padding:0 0 0 10px;
+}
+.head{
+				font-family:700px;background: ;
+}
+.basic{
+				padding:12px 10px;
+}
+.icon{
+				border:3px white solid;
+				border-radius:50%;
+				padding:1px 3px;
+				margin:0px 2px;
+}
+.basic-box{
+				margin:5px 0;
+}
+.skills{
+				padding:12px 10px;
+}
